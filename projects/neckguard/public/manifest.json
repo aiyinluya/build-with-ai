@@ -1,0 +1,16 @@
+{
+  "name": "NeckGuard - 颈椎卫士",
+  "short_name": "NeckGuard",
+  "description": "专为程序员和伏案工作者设计的开源颈椎健康管理工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
